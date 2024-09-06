@@ -1,0 +1,9 @@
+p{
+    /* text-decoration: underline;   => overline , line-through  */
+    /* text-align: center;   => right , left */
+    /* text-transform: uppercase;   =>capitalize , lowercase  */
+    /* text-indent: 100px; */
+    /* letter-spacing: 10px;  المسافه بين الاحرف */
+    /* word-spacing: 10px;  المسافه بين الكلمات */
+    text-shadow: 1px 1px 10px red;
+}

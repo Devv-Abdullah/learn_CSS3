@@ -1,0 +1,21 @@
+/* padding توسع من الداخل */
+
+#b0{
+    padding: 20px;
+}
+
+#b1{
+    padding-left: 30px;
+}
+
+#b2{
+    padding-right: 30px;
+}
+
+#b3{
+    padding-top: 30px;
+}
+
+#b4{
+    padding-bottom: 30px;
+}
