@@ -1,0 +1,14 @@
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{ /*بس اروح عليه بصير احمر */
+    color: red; 
+    background-color: gray;
+}
+
+a:active{ /* بس اكبس عليه بصير اخضر  */
+    color: green; 
+    background-color: black;
+}
