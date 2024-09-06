@@ -1,0 +1,39 @@
+/* button{
+    display: block;
+} */
+
+/* p{
+    display: inline;
+} */
+
+/* div{
+    width: 100px;
+    height: 40px;
+    background-color: red;
+    display: inline-block;
+} */
+
+main{
+    width: 1000px;
+    height: 200px;
+    margin: auto;
+    background-color: black;
+    display: flex;
+}
+
+main article{     /* القدرة على اعادة توزيعها واستخدامها بشكل مستقل */
+    width: 250px;
+    height: 200px;
+} 
+
+#a1{
+    background-color: red;
+}
+
+#a2{
+    background-color: green;
+}
+
+#a3{
+    background-color: blue;
+}

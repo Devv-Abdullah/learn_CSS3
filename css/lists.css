@@ -1,0 +1,21 @@
+ol{
+    list-style-type: decimal; /*decimal, lower-alpha, upper-alpha, japanese-informal, kannada, none*/
+    background-color: black;
+}
+
+ol li{
+    color: red;
+    background-color: gray;
+    margin-top: 3px;
+}
+
+ul{
+    list-style-type: square;
+    background-color: green;
+}
+
+ul li{
+    color: white;
+    background-color: black;
+    margin-top: 3px;
+}
