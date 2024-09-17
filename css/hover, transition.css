@@ -1,0 +1,48 @@
+p{
+    color: red;
+}
+
+p:hover{
+    color: green;
+    font-weight: bold;
+}
+
+button{
+    border: none;
+    background-color: black;
+    color: red;
+    width: 100px;
+    transition: 3s;
+}
+
+button:hover{
+    color: white;
+    width: 100%;
+}
+
+/* div{
+    width: 200px;
+    height: 70px;
+    background-color: red;
+    transition: width 1s, hight 8s;
+} */
+
+/* div:hover{
+    width: 250px;
+    height: 100px;
+} */
+
+#im1{
+    filter: grayscale(100%);
+}
+
+#im1:hover{
+    filter: grayscale(0%);
+}
+
+#im2{
+    transition: 4s;
+}
+#im2:hover{
+    transform: skew(200deg);
+}

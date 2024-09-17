@@ -1,0 +1,24 @@
+div{
+    width: 200px;
+    height: 200px;
+    background-color: tomato;
+    margin: auto;
+    transform: skew(70deg); /* scale(1.5), rotate(30deg), skew(70deg) */
+}
+
+button{
+    /* transform: skew(50deg); */
+    transform: rotate(90deg);
+}
+
+#im1{
+    transform: rotate(30deg);
+}
+
+#im2{
+    transform: skew(30deg);
+}
+
+#im3{
+    transform: scale(2);  /* size */
+}

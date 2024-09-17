@@ -1,0 +1,18 @@
+h3{
+    color: orange;
+}
+
+h3::before{
+    content: "Learn ";
+    color: black;
+}
+
+h3::after{
+    content: " Its easy";
+    color: black;
+}
+
+::selection{
+    color: tomato;
+    background-color: black;
+}
